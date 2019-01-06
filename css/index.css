@@ -605,3 +605,44 @@ a{
 	margin-right: 3px;
 	float: left;
 }
+
+/*侧边栏*/
+#container{
+	width: 130px;
+	height: 508px;
+	position: absolute;
+	top: 106px;
+	right: -90px;
+	cursor: hand;
+	overflow: hidden;
+}
+#firimgsmall{
+	width: 130px;
+	height: 60px;
+	float: left;
+}
+#stob{
+	width: 123px;
+	height: 100px;
+	background-color: #ff9260;
+	border-bottom: 0.5px solid #fff;
+}
+#stob img{
+	margin-top: 45px;
+	margin-left: 11px;
+}
+#app{
+	width: 125px;
+	height: 50px;
+}
+/*#consult{
+	width: 130px;
+	height: 70px;
+	position: absolute;
+	right: -85px;
+}*/
+/*#youhui{
+	width: 130px;
+	height: 70px;
+	position: absolute;
+}*/
